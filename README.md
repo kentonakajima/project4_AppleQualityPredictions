@@ -7,44 +7,44 @@ Data Source : Apple Quality csv file from Kaggle.com
 
 Outline:
 
-    Tools - Python Pandas, Python Matplotlib, Python Seaborn, Sqlite3, Scikit-Learn
+    TOOLS - Python Pandas, Python Matplotlib, Python Seaborn, Sqlite3, Scikit-Learn
 
-    Models - Logistic Regression, Random Forest
+    MODELS - Logistic Regression, Random Forest
 
     ETL -
 
         Extract Data:
             Apple Quality CSV from Kaggle.com
-           4000+ rows
-           9 columns ; A_id, Size, Weight, Sweetness, Crunchiness, Juiciness,Ripeness, Acidity, and Quality
+            4000+ rows
+            9 columns ; A_id, Size, Weight, Sweetness, Crunchiness, Juiciness,Ripeness, Acidity, and Quality
         
         Transform Data:
             Cleaning –Missing Values
-           Conversion –Data Types
-           Selection –Column Removal
+            Conversion –Data Types
+            Selection –Column Removal
 
         Loading Data:
             Load SQLite Database
-           Execute SQL Query
-           Retrieve SQLite Database to DataFrame.
-           Visualization -Seaborn’s Pairplot
+            Execute SQL Query
+            Retrieve SQLite Database to DataFrame.
+            Visualization -Seaborn’s Pairplot
 
     DATA VISUALIZATION - 
-            ![Alt text](pairplot-1.png)
+            ![Seaborn Pairplot](pairplot-1.png)
 
     LOGISTIC REGRESSION MODEL
-            Results
-                ![Alt text](image.png)
+            
+                ![Evaluation](image.png)
             
     RANDOM FOREST MODEL
-            Results
-                ![Alt text](image-1.png)
-                ![Alt text](image-2.png)
+        
+                ![Evaluation](image-1.png)
+                ![Evaluation](image-2.png)
     
     LOGISTIC REGRESSION MODEL OPTIMIZATION
-            Results
-                ![Alt text](image-3.png)
-                ![Alt text](image-4.png)
+            
+                ![Evaluation](image-3.png)
+                ![Evaluation](image-4.png)
 
             
 
