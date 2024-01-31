@@ -30,21 +30,19 @@ Outline:
             Visualization -Seaborn’s Pairplot
 
     DATA VISUALIZATION - 
-            ![Seaborn Pairplot](pairplot-1.png)
+            ![Evaluation](pairplot-1.png)
 
     LOGISTIC REGRESSION MODEL
-            
-                ![Evaluation](image.png)
+            ![Evaluation](image.png)
+               
             
     RANDOM FOREST MODEL
-        
-                ![Evaluation](image-1.png)
-                ![Evaluation](image-2.png)
+            ![Evaluation](image-1.png)
+            ![Evaluation](image-2.png)
+            
     
     LOGISTIC REGRESSION MODEL OPTIMIZATION
-            
-                ![Evaluation](image-3.png)
-                ![Evaluation](image-4.png)
-
+            ![Evaluation](image-3.png)
+            ![Evalutaion](image-4.png)
             
 
